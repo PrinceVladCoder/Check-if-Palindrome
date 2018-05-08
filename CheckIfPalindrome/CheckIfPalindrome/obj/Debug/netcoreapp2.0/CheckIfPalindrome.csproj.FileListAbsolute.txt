@@ -1,0 +1,11 @@
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\obj\Debug\netcoreapp2.0\CheckIfPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\obj\Debug\netcoreapp2.0\CheckIfPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\obj\Debug\netcoreapp2.0\CheckIfPalindrome.AssemblyInfoInputs.cache
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\obj\Debug\netcoreapp2.0\CheckIfPalindrome.AssemblyInfo.cs
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\bin\Debug\netcoreapp2.0\CheckIfPalindrome.deps.json
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\bin\Debug\netcoreapp2.0\CheckIfPalindrome.runtimeconfig.json
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\bin\Debug\netcoreapp2.0\CheckIfPalindrome.runtimeconfig.dev.json
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\bin\Debug\netcoreapp2.0\CheckIfPalindrome.dll
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\bin\Debug\netcoreapp2.0\CheckIfPalindrome.pdb
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\obj\Debug\netcoreapp2.0\CheckIfPalindrome.dll
+C:\Users\Huis\Desktop\Programming\CheckIfPalindrome\CheckIfPalindrome\obj\Debug\netcoreapp2.0\CheckIfPalindrome.pdb
